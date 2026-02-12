@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Reaktionsspiel</title>
+    <style>
+      body {
+        background-color: black;
+        color: white;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .circle {
+        background-color: transparent; /*wi sehen einen link deshalbe verstecken wir ihn*/
+        width: 50px; /*Breite*/
+        height: 50px; /*Hoehe*/
+        border-radius: 50%;
+        cursor: pointer;
+        position: absolute;
+        /*left: 400px;
+            top: 200px;
+            --> auf diesen Eigenschaften werden wir verzichten , weil unsere Aufgabe ist dass , der Kreis  frei bewegen wird
+            -----*/
+      }
+    </style>
+  </head>
+  <body onload="moveKreise()">
+    <h1>Klicke den Kreis so schnell wie möglisch</h1>
+    <p id="message">Bereit?</p>
+
+    <div id="Kreis" onclick="measureTime()" class="circle"></div>
+
+    <script src="index.js"></script>
+
+
+  </body>
+</html>

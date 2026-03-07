@@ -6,7 +6,7 @@ Das Ziel des Spiels ist es, die Reaktionsgeschwindigkeit des Nutzers zu messen.
 ## 📸 Projektvorschau 
 ![Reaktionsspiel Vorschau ](image/screenshot.png)
 ### 🌐 Der Link
-[Hier klicken, um den Reaktionsspiel zu testen]([https://black-lock.github.io/Taschenrechner/](https://black-lock.github.io/Reaktionsspiel/))
+[Hier klicken, um den Reaktionsspiel zu testen](https://black-lock.github.io/Reaktionsspiel/)
 
 ## 🧩 Funktionsweise
 

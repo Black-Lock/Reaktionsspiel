@@ -16,8 +16,11 @@ Die Aufgabe des Spielers ist es, **den Kreis so schnell wie möglich anzuklicken
 Sobald der Kreis angeklickt wird:
 
 I. Die Zeit zwischen dem Erscheinen des Kreises und dem Klick wird berechnet.
+
 II. Die Reaktionszeit wird auf dem Bildschirm angezeigt.
+
 III. Der Kreis bewegt sich automatisch an eine neue zufällige Position.
+
 IV. Zusätzlich erhält der Kreis jedes Mal eine **neue zufällige Farbe**.
 
 Dadurch entsteht ein einfaches, aber dynamisches Spiel, das die **Reaktionsgeschwindigkeit des Nutzers testet**.
